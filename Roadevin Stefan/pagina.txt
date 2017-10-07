@@ -1,0 +1,25 @@
+<html>
+<title>Stefan Roadevin</title>
+<body background="th.jpg">
+<marquee behavior="alternate"><h1><font color="black">Despre mine</h1></marquee>
+<br></br>
+<br></br>
+<h2><font face="impact"><pre>       
+                Ma numesc Stefan Roadevin , am 16 ani si sunt zodia pesti.Sunt o fire visatoare , calma si prietenoasa
+             hjghgj
+	     .
+             .
+             .
+                 <hr size="10" width="40% align="center" color="magenta"
+                  noshade="noshade"/>
+                 Hobby-uri:
+             <img src="dan.jpg">             <img src="nicusor.jpg">             <img src="gigel.jpg">
+             -Jocurile pe calculator         -Fotbalul                           -Iesitul afara
+             <h5>
+             Muzik
+             <a href="https://www.youtube.com/watch?v=bczm0-AsEeM">Sandu Ciorba</a>
+   </h5>
+                                              date de contact
+                                              stefan.roadevin@gmail.com
+                                              realizat de Stefan Roadevin</h2>
+</body>
