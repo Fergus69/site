@@ -1,0 +1,64 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+a
+{
+	text-decoration: none;
+	color:white;
+}
+
+a:hover
+{
+	opacity: 0.5;	
+}
+
+
+body
+{
+	font-family: 'Didact Gothic', sans-serif;
+	margin:0px;
+	padding-left:15px;
+    padding-right:15px;
+	text-align:center;
+    background: url('1.jpg') no-repeat 100% 100% fixed; 
+    background-size: 100% 100%;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+#header
+{
+	font-family: 'Didact Gothic', sans-serif;
+	border-bottom:1px solid #800000;
+	width:100%;
+	text-align:center;
+	background-color:#800000;
+}
+
+.centru
+{
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+#footer{
+	font-family: 'Didact Gothic', sans-serif;
+    position:absolute;
+	text-decoration:none;
+	width:98%;
+	margin:0;
+	bottom:0;
+	background-color:#800000;
+}
+
+#preloader {
+	position: fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	background-color:#800000;
+	z-index:99;
+}
